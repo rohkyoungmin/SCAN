@@ -39,7 +39,8 @@ This project was published in CMES (Computer Modeling in Engineering and Science
 - The implementation of SCAN and the experiments were conducted on a Microsoft Windows 11 Pro system (Version 24H2, Build 26100.4946) running under WSL2 with Linux kernel 6.6.
 - The hardware configuration included an Intel(R) Xeon(R) W-3235 CPU @ 3.30 GHz (12 cores, 24 threads), 64 GB of DDR4 RAM, and an NVIDIA Quadro RTX 4000 GPU.
 
-# Funding Statement
+# Acknowledgements
+## Funding Statement
 - This work was supported in part by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT (No. 2021RA2C2012574).
 - This work was supported in part by the IITP (Institute of Information & Communications Technology Planning & Evaluation) - ITRC (Information Technology Research Center) grant funded by the Korea government (Ministry of Science and ICT) (IITP-2025-RS-2023-00259967).
 
