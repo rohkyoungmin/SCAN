@@ -43,3 +43,12 @@ This project was published in CMES (Computer Modeling in Engineering and Science
 
 ## Developer
 - The machine learning code was developed by **Kyoungmin Roh** in the [Computer Security & Operating Systems (CSOS) Lab](https://securesw.dankook.ac.kr/index.html), Dankook University.
+
+# Contact
+## Corresponding Author
+- Name: Seong-je Cho
+- Email: sjcho@dankook.ac.kr
+
+## First Author
+- Name: Kyoungmin Roh
+- Email: imsie1@dankook.ac.kr
