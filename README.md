@@ -23,8 +23,8 @@ This project is published to SCIE Journal, CMES (Computer Modeling in Engineerin
 <img width="7209" height="4420" alt="fig3-1" src="https://github.com/user-attachments/assets/80b501f5-d77c-46cd-bc2b-c8d4dceb4aba" />
 
 ## Code
-- The main code of SCAN is contained in the code: ```SCAN_main_code.py```.
-- The supplementary experiment of SCAN is contained in the code: ```DREBIN_Additional.py```.
+- The main code of SCAN is contained in the code: ```SCAN_main_code.ipynb```.
+- The supplementary experiment of SCAN is contained in the code: ```DREBIN_Additional.ipynb```.
 
 ## Datasets
 - We mainly used AndroZoo datasets (available at [https://androzoo.uni.lu/](https://androzoo.uni.lu/)) for experiment.
