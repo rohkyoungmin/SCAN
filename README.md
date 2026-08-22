@@ -5,16 +5,16 @@ This project is published to SCIE Journal, CMES (Computer Modeling in Engineerin
 - Please consider to cite the paper following this:
 ```
 @article{ROH2026,
-  title = {SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift},
-  journal = {CMES - Computer Modeling in Engineering and Sciences},
-  volume = {146},
-  number = {3},
-  year = {2026},
-  issn = {1526-1492},
-  doi = {https://doi.org/10.32604/cmes.2026.074936},
-  url = {https://www.sciencedirect.com/science/article/pii/S1526149226001244},
-  author = {Kyoungmin Roh and Seungmin Lee and Seong-je Cho and Youngsup Hwang and Dongjae Kim},
-  keywords = {Android malware detection, concept drift, intelligent hybrid framework, gaussian mixture model (GMM), class imbalance, adaptive thresholding}
+    title = {SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift},
+    journal = {CMES - Computer Modeling in Engineering and Sciences},
+    volume = {146},
+    number = {3},
+    year = {2026},
+    issn = {1526-1492},
+    doi = {https://doi.org/10.32604/cmes.2026.074936},
+    url = {https://www.sciencedirect.com/science/article/pii/S1526149226001244},
+    author = {Kyoungmin Roh and Seungmin Lee and Seong-je Cho and Youngsup Hwang and Dongjae Kim},
+    keywords = {Android malware detection, concept drift, intelligent hybrid framework, gaussian mixture model (GMM), class imbalance, adaptive thresholding}
 }
 ```
 
