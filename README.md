@@ -1,8 +1,9 @@
-This project is published to SCIE Journal, CMES (Computer Modeling in Engineering and Sciences).
+This project was published in CMES (Computer Modeling in Engineering and Sciences), an SCIE journal.
 
 # Publication
-- More details are available in the paper "[SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift](https://www.sciencedirect.com/org/science/article/pii/S1526149226001244)".
-- Please consider to cite the paper following this:
+- More details are available in the paper "[SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift](https://www.sciencedirect.com/science/article/pii/S1526149226001244)".
+- Please consider citing the paper as follows:
+
 ```
 @article{ROH2026,
     title = {SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift},
@@ -23,22 +24,22 @@ This project is published to SCIE Journal, CMES (Computer Modeling in Engineerin
 <img width="7209" height="4420" alt="fig3-1" src="https://github.com/user-attachments/assets/80b501f5-d77c-46cd-bc2b-c8d4dceb4aba" />
 
 ## Code
-- The main code of SCAN is contained in the code: ```SCAN_main_code.ipynb```.
-- The supplementary experiment of SCAN is contained in the code: ```DREBIN_Additional.ipynb```.
+- The main code for SCAN is available in `SCAN_main_code.ipynb`.
+- The supplementary experiment code is available in `DREBIN_Additional.ipynb`.
 
 ## Datasets
-- We mainly used AndroZoo datasets (available at [https://androzoo.uni.lu/](https://androzoo.uni.lu/)) for experiment.
-- We used additional datasets from DREBIN (available at [https://drebin.mlsec.org/](https://drebin.mlsec.org/)) to reflect realistic class imbalance.
+- We mainly used the AndroZoo dataset (available at https://androzoo.uni.lu/) for our experiments.
+- We used additional datasets from DREBIN (available at https://drebin.mlsec.org/) to reflect realistic class imbalance.
+- The feature data that supports the findings of this study are available from the Corresponding Author, [Seong-je Cho](https://securesw.dankook.ac.kr/Members/Professor.html), upon reasonable request.
 
 ## System Environment
-- The implementation of the SCAN and experiments was conducted on a Microsoft Windows 11 Pro system (Version 24H2, Build 26100.4946) running under WSL2 with Linux Kernel 6.6.
-- The hardware configuration included an Intel(R) Xeon(R) W-3235 CPU @ 3.30 GHz (12 cores, 24 Threads), 64GB of DDR4 RAM and an NVIDIA Quadro RTX 4000 GPU.
+- The implementation of SCAN and the experiments were conducted on a Microsoft Windows 11 Pro system (Version 24H2, Build 26100.4946) running under WSL2 with Linux kernel 6.6.
+- The hardware configuration included an Intel(R) Xeon(R) W-3235 CPU @ 3.30 GHz (12 cores, 24 threads), 64 GB of DDR4 RAM, and an NVIDIA Quadro RTX 4000 GPU.
 
-
-# Acknowlodgements
+# Acknowledgements
 ## Funding Statement
-- This work was supported in part by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT (No. 2021RA2C2012574).
-- This work was supported in party by the IITP (Institute of Information & Communications Technology Planning & Evaluation) - ITRC (Information Technology Research Center) grant funded by the Korea government (Ministry of Science and ICT) (IITP-2025-RS-2023-00259967).
+- This work was supported in part by the Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT (No. 2021RA2C2012574).
+- This work was supported in part by the IITP (Institute of Information & Communications Technology Planning & Evaluation) - ITRC (Information Technology Research Center) grant funded by the Korea government (Ministry of Science and ICT) (IITP-2025-RS-2023-00259967).
 
 ## Developer
-- This Machine Learning code is developed by **Kyoungmin Roh** in [Computer Security & Operating Systems (CSOS) Lab](https://securesw.dankook.ac.kr/index.html), Dankook University.
+- The machine learning code was developed by **Kyoungmin Roh** in the [Computer Security & Operating Systems (CSOS) Lab](https://securesw.dankook.ac.kr/index.html), Dankook University.
