@@ -1,7 +1,7 @@
 This project is published to SCIE Journal, CMES (Computer Modeling in Engineering and Sciences).
 
 # Publication
-- More details are available in the paper "[SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift](https://www.techscience.com/CMES/v146n3/66789)".
+- More details are available in the paper "[SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift](https://www.sciencedirect.com/org/science/article/pii/S1526149226001244)".
 - Please consider to cite the paper following this:
 ```
 @article{ROH2026,
