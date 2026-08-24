@@ -1,4 +1,4 @@
-This project was published in CMES (Computer Modeling in Engineering and Sciences), an SCIE journal.
+This project was published in Computer Modeling in Engineering and Sciences (CMES), an SCIE journal.
 
 # Developer
 - The machine learning code was developed by **Kyoungmin Roh** in the [Computer Security & Operating Systems (CSOS) Lab](https://securesw.dankook.ac.kr/index.html), Dankook University.
